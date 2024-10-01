@@ -3,9 +3,9 @@ package com.bptn.course._04_arrays;
 public class Array {
 
 	public static void main(String[] args) {
-		//Declare and initialize and array with 6 values
+		//Declare and initialize and array with values
 		
-		int[] myArray = {3,5,7,9,11,13}
+		int[] myArray = {10,20,30,40,50}
 ;
 //		Print the first and second element to the console
 		System.out.println("First element " + myArray[0]);
