@@ -1,4 +1,4 @@
-package com.bptn.course._06_big_code;
+package com.bptn.course._06_big_code_challenge;
 
 import java.util.Scanner;
 
