@@ -34,7 +34,7 @@ public class Phone {
 				
 	}
 	
-//	1st Parameterized constructor- which has 4 parameters passed
+//	1st Parameterized constructor- which has 3 parameters passed
 
 	public Phone(int w, int h, int wi) {
 //		Local variables:
